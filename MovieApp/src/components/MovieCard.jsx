@@ -1,3 +1,5 @@
+import '../css/MovieCard.css';
+
 function MovieCard({movie}) {
 
     // Function to handle favorite button click
